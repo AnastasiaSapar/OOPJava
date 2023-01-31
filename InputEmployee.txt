@@ -1,0 +1,11 @@
+Abraham
+Simpson
+1000
+0
+600
+
+Bart
+Simpson
+1200
+0
+900
